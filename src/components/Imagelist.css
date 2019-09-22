@@ -1,0 +1,9 @@
+.image-list {
+  display: flexbox;
+  justify-content: space-around; 
+}
+.image-list img {
+  height: auto;
+  width: 300px;
+  margin: 10px;
+}
